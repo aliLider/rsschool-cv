@@ -9,3 +9,8 @@
         In the future, I want to learn English and Russian at a high level and I intend to work in international IT companies
 ## EXPERIENCE
 -I AM STILL A STUDENT. I WILL GET A JOB AFTER FINISHING SCHOOL
+## SKILLS       
+- html
+- css
+- Javascript
+- Java
